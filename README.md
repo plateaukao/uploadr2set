@@ -1,4 +1,6 @@
 uploadr2set
 ===========
 
-customize uploadr2set to meet personal usage
+It's a python script to upload images to flickr with a specific
+designated set name.
+
